@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on improving my overall technical skills.<br>💡I'm currently in the learning phase when it comes to knowing about Web Development.
+🔭I'm currently working on improving my overall technical skills.<br>💡I'm currently in the learning phase when it comes to knowing about Web Development and Cyber Security.
 
 
 # 💻 Tech Stack:
