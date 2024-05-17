@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello everyone, My name is Swaraj Rajendra Mutalik.<br><br>Currently I am in my final year of pursuing my degree in B.Tech in Computer Science with Specialization in Cyber Security and Digital Forensics.<br><br>Apart from my Cyber Security knowledge I have gained good amount of knowledge about front-end and back-end development.<br><br>I am currently working as a Digital Evangelist Intern at StatusNeo.
+Hello everyone, My name is Swaraj Rajendra Mutalik.<br><br>Currently I am in my final year of pursuing my degree in B.Tech in Computer Science with Specialization in Cyber Security and Digital Forensics.<br><br>Apart from my Cyber Security knowledge I have gained good amount of knowledge about Website Development as well.<br><br>I am currently working as an Associate Consultant at StatusNeo.
 
 
 # 💻 Tech Stack:
