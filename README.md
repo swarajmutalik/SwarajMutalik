@@ -71,16 +71,6 @@ Capture-The-Flag challenges across easy/intermediate/advanced difficulty, built 
 **🔒 File Integrity Monitoring System**
 Web-based interface (Node.js, EJS, MongoDB) for tracking file integrity events, with secure authentication and structured alerting on file modification activity.
 
-<p align="center">
-  <a href="https://github.com/swarajmutalik/Major-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swarajmutalik&repo=Major-1&theme=dark" />
-  </a>
-</p>
-
-> 💡 Push HackHorizon and the File Integrity Monitoring System to their own repos (if not already) and pin them here — right now `Major-1` is the only original project visible on your profile.
-
----
-
 ### 🎓 Education
 
 - **M.Tech, Cyber Security and Digital Forensics** — UPES, Dehradun *(Aug 2025 – Present)* — CGPA 8.07/10.0
