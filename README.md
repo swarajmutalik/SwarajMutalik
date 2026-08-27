@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swaraj Rajendra Mutalik</h1>
-<h3 align="center">Cyber Security & Digital Forensics | Software Engineer</h3>
+<h3 align="center">Cyber Security & Digital Forensics </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
