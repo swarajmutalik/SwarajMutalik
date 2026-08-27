@@ -15,7 +15,6 @@
 - 🛡️ Experience securing endpoints and analyzing CVEs at **Shyam Indus Power Solutions**
 - 📊 Background in **Power BI dashboards** and **Azure Data Factory ETL pipelines** from my time at **StatusNeo Consulting**
 - 🏆 CompTIA Security+ (SY-701) certified
-- 🚩 Built a Capture-The-Flag platform (**HackHorizon**) and a **File Integrity Monitoring System**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/swaraj-rajendra-mutalik-937b15209/) or swarajmutalik@gmail.com
 
 ---
