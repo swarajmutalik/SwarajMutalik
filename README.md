@@ -99,10 +99,4 @@ Web-based interface (Node.js, EJS, MongoDB) for tracking file integrity events, 
   <img src="https://github-profile-trophy.vercel.app/?username=swarajmutalik&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swarajmutalik&color=blueviolet&style=flat" alt="profile views" />
-</p>
-
 <p align="center"><i>Thanks for stopping by — feel free to connect!</i></p>
